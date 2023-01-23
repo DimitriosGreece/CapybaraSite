@@ -4,6 +4,6 @@ function ValidateContact() {
    alert("please enter valid contact information")
     return false;
    }
-   console.log(hello);
+   console.log("Hello");
    return true;
 }
